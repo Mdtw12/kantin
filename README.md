@@ -1,4 +1,4 @@
-agil kurniawan (2271020170) sebagai front end dan back end
+agil kurniawan (2271020170) sebagai front end dan back end dan ui/ux
 rifki akbar saputra (2271020164) ui/ux
 yulis sintya wati (22710202162) ui/ux
 
